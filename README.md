@@ -21,9 +21,11 @@ B. Find what is the variation between the price and the average price?
 
 
 
-### Install
+### Required tools
 
-This project requires **Python 3.x** and the following Python libraries installed:
+In this project you will need to download the following libraries and it also requires **Python 3.x** .
+You can also download the following libraries:
+
 
 - [numpy](http://www.numpy.org/)
 - [pandas](http://pandas.pydata.org)
@@ -34,16 +36,12 @@ This project requires **Python 3.x** and the following Python libraries installe
 
 ### File Descriptions
 
-- Data:
-    - listings.csv, including full descriptions and average review score.
-    - reviews.csv, including unique id for each reviewer and detailed comments
-	- calendar.csv, including listing id and the price and availability for that day.
-- A jupyter notebook with the data analysis.
+- Dataset:
+    - listings.csv: It shows the summary of the rating of review, names, listing links and other things
+    - reviews.csv: It contain the ID and the comments and the name of the reviewer 
+	- calendar.csv: It shows the prices, the availability and the date 
 
 ### Summary of results
-The results of the analysis are summarized in a Blog Post on Medium website [here](https://medium.com/@kontonisbill/can-you-guess-airbnb-rentals-in-seattle-d8b8af027226)
-
-### Licenses and Acknowledgments
-I would like to thank Udacity Data Science Nanodegree Team for some of the code ideas, and to Kaggle/AirBnb for the data.
-
-Feel free to use the code. Your feedback is more than welcome.
+You can check the summary and result in the following link
+### Acknowledgments
+Udacity gave me the opertunity to know how the data analysis be and how to use explore the data, so I'm gratitude to Udacity for this opertunity.
