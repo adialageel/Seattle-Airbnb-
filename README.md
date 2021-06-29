@@ -11,8 +11,8 @@ For the Airbnb dataset we have in the bellow some points that tell us about the 
 Now let's see the questions that we are trying to explore and answer:
 
 1. 	
-A. Find what are the highest and lowest neighborhood based on the cost?
-B. Find what is the variation between the price and the average price?
+a. Find what are the highest and lowest neighborhood based on the cost?
+b. Find what is the variation between the price and the average price?
 
 2. What types of properties are mostly available in Seattle and how does the price vary by property type?
 
