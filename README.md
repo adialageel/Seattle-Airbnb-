@@ -42,6 +42,7 @@ You can also download the following libraries:
 	- calendar.csv: It shows the prices, the availability and the date 
 
 ### Summary of results
-You can check the summary and result in the following link
+You can check the summary and result in the following link:
+https://a-alageel1998.medium.com/airbnb-the-seattle-dataset-bca1b0112f92
 ### Acknowledgments
 Udacity gave me the opertunity to know how the data analysis be and how to use explore the data, so I'm gratitude to Udacity for this opertunity.
